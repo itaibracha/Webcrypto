@@ -11,6 +11,6 @@ app.get("/", function(req, res){
     res.render("home");
 });
 
-app.listen(8080, ("localhost"), function(){
+app.listen(process.env.PORT, process.env.IP, function(){
   console.log ("Server is runing");
 });
