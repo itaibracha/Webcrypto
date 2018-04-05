@@ -12,7 +12,7 @@ body {
 
 .carousel-item {
   height: 450px; }
-
+ 
 .carousel-image-1 {
   background: url("../img/image1.jpg");
   background-size: cover; }
