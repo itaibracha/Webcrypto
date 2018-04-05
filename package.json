@@ -2,9 +2,9 @@
   "name": "cryptoall",
   "version": "1.0.0",
   "description": "crypto all",
-  "main": "src/app.js", 
+  "main": "app.js",
   "scripts": {
-    "start": "node src/app.js"
+    "start": "node app.js"
   },
   "author": "itai bracha",
   "license": "MIT",
